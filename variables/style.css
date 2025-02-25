@@ -1,0 +1,17 @@
+/*fondo*/
+body{height: 1000px ;background: linear-gradient(to bottom,Maroon 0%, black 100% ) ;}
+
+/*color de texto*/
+p{color: FloralWhite; font-size: 25px;}
+
+
+.nombre{color: SeaShell; font-size: 20px;}
+
+h1{color:rgba(255, 250, 240, 0.755);text-align: center;}
+h2{color: #f3bedb; text-align:left;}
+h3{color: hsla(0, 0%, 100%, 0.7); text-align:center; font-size: 40px;}
+
+
+
+
+/*vincular a el index con link en head*/

@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+body{background-color: beige;}
+
+.p1{
+    background-color: rgb(241, 132, 132);
+    color: antiquewhite;
+    font-size: 50px; 
+    padding: 40px;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+.p2{
+    background-color: rgb(228, 98, 98); 
+    color: antiquewhite; 
+    font-size: 50px; 
+    padding: 40px; 
+    font-style: italic;
+    float: left;
+    width: 34%;
+    text-align: center;
+}
+
+.p3{
+    background-color: rgb(204, 72, 72); 
+    color: antiquewhite; 
+    font-size: 50px; 
+    padding: 40px;
+    float: left;
+    width: 33%;
+    text-align: center;
+}
+
+@media screen and (max-width:800px) {
+    .p1,.p2,.p3{
+        width: 100%;
+    }
+}

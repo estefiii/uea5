@@ -1,1 +1,9 @@
-body{background-color: rgb(171, 173, 248);}
+body {
+    background-color: #000000; 
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    color: #ffe9a8ca; 
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}

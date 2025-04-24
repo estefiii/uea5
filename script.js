@@ -1,0 +1,1 @@
+console.log("Nada permanece. Solo cambia de forma.");

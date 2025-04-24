@@ -1,9 +1,41 @@
 body {
     background-color: #000000; 
-    font-family: Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 40px;
     color: #ffe9a8ca; 
     text-align: center;
     padding: 0;
     margin: 0;
 }
+
+.titulo {
+    background-color: #eea64f;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    color: #000000;
+  }
+  
+  .video {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  video {
+    width: 80%;
+    max-width: 720px;
+  }
+  
+  .texto {
+    background-color: #d8832d;
+    padding: 25px;
+    border-radius: 10px;
+    font-size: 1.1em;
+    line-height: 1.5;
+  }
+  
